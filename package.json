@@ -1,0 +1,23 @@
+{
+  "name": "sgs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/capc0/sgs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/capc0/sgs/issues"
+  },
+  "homepage": "https://github.com/capc0/sgs#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.7"
+  }
+}
